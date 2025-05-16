@@ -17,3 +17,5 @@ Install and run:
 `bun i`
 
 `bun run prod` or `bun run dev`
+
+test
